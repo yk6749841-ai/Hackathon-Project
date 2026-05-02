@@ -1,0 +1,25 @@
+# Node & React
+node_modules/
+build/
+dist/
+.env
+.env.local
+
+# Java & Maven
+target/
+*.class
+*.jar
+*.war
+.mvn/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# IDEs and System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
