@@ -41,11 +41,16 @@ Advanced React-based interface designed for managers and supervisors (located in
 * **Task Assignment** - Assigning specific AI simulation scenarios to agents and tracking completion.
 * **Analytics & Ranks** - Visual dashboards displaying success rates, ranks, and progress charts.
 
+  <img width="3504" height="2305" alt="manager" src="https://github.com/user-attachments/assets/c205f789-90e7-4d88-a674-8d19c84b88ff" />
+
+
 ### 4. The Agent Arena 🎧 (Agent Simulator)
 The end-user application built to be smooth, distraction-free, and advanced (located in the `front-simulator` directory).
 * **Simulation Room** - A training environment divided into AI chat, voice simulation, and a hidden guidance box for manager messages.
 * **Personal Workspace** - Dedicated area for open tasks, performance reports, and personal notes.
 * **Responsive UI/UX** - Clean, professional design simulating real-world CRM systems.
+
+<img width="3465" height="2493" alt="Untitled-1" src="https://github.com/user-attachments/assets/73183ef0-02f7-4394-8fbf-03fc05bcfd44" />
 
 ---
 
