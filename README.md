@@ -41,7 +41,7 @@ Advanced React-based interface designed for managers and supervisors (located in
 * **Task Assignment** - Assigning specific AI simulation scenarios to agents and tracking completion.
 * **Analytics & Ranks** - Visual dashboards displaying success rates, ranks, and progress charts.
 
-  <img width="3504" height="2305" alt="manager" src="https://github.com/user-attachments/assets/c205f789-90e7-4d88-a674-8d19c84b88ff" />
+<img width="3504" height="2305" alt="manager" src="https://github.com/user-attachments/assets/c205f789-90e7-4d88-a674-8d19c84b88ff" />
 
 
 ### 4. The Agent Arena 🎧 (Agent Simulator)
